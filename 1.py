@@ -1,2 +1,2 @@
 # Задание написать hello World на питоне
-print('Hello world!')
+print('hello World!')
